@@ -74,7 +74,7 @@ def get_filename(root):
     else:
         print('Warning: could not find subtitle')
 
-    filename = os.path.join('recipes', fix_text(title) + '.txt')
+    filename = os.path.join('recipes', 'meals', fix_text(title) + '.txt')
 
     if os.path.exists(filename):
         raise Exception('File already exists: {}'.format(filename))
