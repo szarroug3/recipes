@@ -95,7 +95,7 @@ def get_ingredients(root):
             if not ingredient.text:
                 continue
 
-            ingredient_values.append(ingredient.text)
+            ingredient_values.append('- {}'.format(ingredient.text))
 
         ingredients.append(fix_text(' '.join(ingredient_values), replace_spaces=False))
 
@@ -144,7 +144,7 @@ def get_instructions(root):
 
 def write_file(filename, ingredients, instructions):
     with open(filename, 'w') as f:
-        f.write('Ingredients:\n{}\n\nInstructions:\n{}'.format(ingredients, instructions))
+        f.write('### Ingredients:\n{}\n\n### Instructions:\n{}\n'.format(ingredients, instructions))
 
     print('Wrote: {}'.format(filename))
 
