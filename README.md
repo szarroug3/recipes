@@ -1,4 +1,5 @@
 ### Desserts
+- [Angel Food Delight](recips/desserts/angel_food_delight.md)
 - [Banana Bread](recipes/desserts/banana_bread.md)
 - [F&W Charred Peach Bourbon Dump Cake](recipes/desserts/f_and_w_charred_peach_bourbon_dump_cake.md)
 - [Peanut Butter Blossoms](recipes/desserts/peanut_butter_blossoms.md)
@@ -15,6 +16,7 @@
 - [Chicken Katsu with Roasted Broccoli and Ginger Rice](recipes/meals/chicken_katsu_with_roasted_broccoli_and_ginger_rice.md)
 - [Chicken Parm over Spaghetti with Garlic Marinara and Melty Mozz](recipes/meals/chicken_parm_over_spaghetti_with_garlic_marinara_and_melty_mozz.md)
 - [Chicken Tikka Masala](recipes/meals/chicken_tikka_masala.md)
+- [Classic Beef Stroganoff](recipe/meals/classic_beef_stroganoff.md)
 - [Coconut Lime Rice](recipes/meals/coconut_lime_rice.md)
 - [Creamy Chicken and Mushroom Cavatappi with Parmesan and Scallions](recipes/meals/creamy_chicken_and_mushroom_cavatappi_with_parmesan_and_scallions.md)
 - [Creamy Lemon Butter Chicken with Parmesan Zucchini Rounds and Scallion Couscous](recipes/meals/creamy_lemon_butter_chicken_with_parmesan_zucchini_rounds_and_scallion_couscous.md)
