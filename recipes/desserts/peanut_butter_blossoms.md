@@ -11,7 +11,7 @@
 - 1 3/4 cups all-purpose flower
 - ~54 milk chocolate kisses
 
-Directions:
+### Instructions:
 1. Preheat oven to 350F. In a large bowl, beat shortening and peanut butter with an electric mixer on medium to high speed for 30 seconds.
 2. Add 1/2 cup granulated sugar, brown sugar, baking powder, and baking soda. Beat until combined, scraping sides of bowl occasionally.
 3. Beat in egg, milk, and vanilla until combined. Beat in as much of the flour as you can with the mixer. Stir in any remaining flour.

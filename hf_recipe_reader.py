@@ -134,7 +134,8 @@ def get_instructions(root):
             continue
 
         if title:
-            instructions.append(title)
+            instructions.append('#### {}'.format(title))
+
         instructions.extend(instruction_list)
         instructions.append('')
 

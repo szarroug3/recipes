@@ -7,5 +7,5 @@
 - salt
 
 ### Instructions:
-1. Cook rice according to package directions in coconut milk and water.
+1. Cook rice according to package ### Instructions: in coconut milk and water.
 2. After removing from heat, stir in cilanto, squeeze lime and add salt to taste.
