@@ -29,7 +29,7 @@
 2. In a pan, place ground beef, season lightly with salt and pepper, and generously with garlic powder.
 3. Add beef and onion to pan and cook until beef is cooked and onion pieces are slightly translucent.
 4. Strain off the grease.
-5. Return beef and onions to the pan and add one packet of taco seasoning and follow the ### Instructions: on the taco seasoning packet.
+5. Return beef and onions to the pan and add one packet of taco seasoning and follow the instructions on the taco seasoning packet.
 6. When finished, add your taco beef mixture to the pot of veggies and stir until mixed.
 
 #### Finishing up:
