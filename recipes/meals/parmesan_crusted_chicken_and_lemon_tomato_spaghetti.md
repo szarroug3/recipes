@@ -18,7 +18,7 @@
 ### Instructions:
 #### Pasta:
 1. Bring a large pot of salted water to a boil. Add pasta and cook until al denta (9-11 minutes). Reserver 1 cup pasta cooking water then drain.
-2. Melt 1 tbsp butter in pot used for pasta over medium high heet. Add remaining garlic and cook until fragrant (about 30 seconds).
+2. Melt 1 tbsp butter in pot used for pasta over medium high heat. Add remaining garlic and cook until fragrant (about 30 seconds).
 3. Lower heat and stir in cream cheese, a pinch of lemon zest, another 1 tbsp butter, and 1/4 cup reserved pasta cooking water. Mix until smooth.
 4. Squeeze in 1 tbsp lemon juice. Add spaghetti and toss to combine. If needed, stir in more pasta cooking water a splash at a time until pasta is coated in creamy sauce.
 5. Add half the tomatoes to pot with spaghetti. Season with slat and pepper. Toss to combine.
