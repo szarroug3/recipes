@@ -8,7 +8,7 @@
 - 1 egg
 - 2 tbsp milk
 - 1 tsp vanilla
-- 1 3/4 cups all-purpose flower
+- 1 3/4 cups all-purpose flour
 - ~54 milk chocolate kisses
 
 ### Instructions:
