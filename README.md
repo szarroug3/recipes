@@ -1,6 +1,7 @@
 ### Desserts
 - [Angel Food Delight](recipes/desserts/angel_food_delight.md)
 - [Banana Bread](recipes/desserts/banana_bread.md)
+- [Cheesecake Filled Strawberries](recipes/desserts/cheesecake_filled_strawberries.md)
 - [F&W Charred Peach Bourbon Dump Cake](recipes/desserts/f_and_w_charred_peach_bourbon_dump_cake.md)
 - [Peanut Butter Blossoms](recipes/desserts/peanut_butter_blossoms.md)
 - [White Chocolate Raspberry Brownies](recipes/desserts/white_chocolate_raspberry_brownies.md)
