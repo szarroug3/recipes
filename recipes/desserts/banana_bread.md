@@ -14,7 +14,8 @@
 ### Instructions:
 1. mush the bananas
 2. mix everything
-3. bake at 350F for 50 minutes
+3. spray pan with non stick spray and coat with flour
+4. pour in batter and bake at 350F for 50 minutes
 
 
 
