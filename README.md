@@ -4,6 +4,7 @@
 - [Cheesecake Filled Strawberries](recipes/desserts/cheesecake_filled_strawberries.md)
 - [F&W Charred Peach Bourbon Dump Cake](recipes/desserts/f_and_w_charred_peach_bourbon_dump_cake.md)
 - [Peanut Butter Blossoms](recipes/desserts/peanut_butter_blossoms.md)
+- [Tiramisu](recipes/desserts/tiramisu.md)
 - [White Chocolate Raspberry Brownies](recipes/desserts/white_chocolate_raspberry_brownies.md)
 
 ### Drinks
