@@ -24,7 +24,7 @@
 
 #### Bake Flautas:
 1. Meanwhile, drizzle tortillas with 1 TBSP olive oil (2 TBSP for 4 servings); brush or rub to completely coat.
-2. Place tortillas on a clean work surface. Once beef filling is done, add a heaping 1/4 cup filling to one side of each tortilla, then sprinkle each with 1 TBSP Mexican cheese. Roll up tortillas, starting with filled sides, to create flautas. Place seam sides down on prepared sheet. TIP: Make sure the flautas are snug on the sheet—this will prevent them from unrolling.
+2. Place tortillas on a clean work surface. Once beef filling is done, add a heaping 1/4 cup filling to one side of each tortilla, then sprinkle each with 1 TBSP Mexican cheese. Roll up tortillas, starting with filled sides, to create flautas. Place seam sides down on prepared sheet. TIP: Make sure the flautas are snug on the sheet; this will prevent them from unrolling.
 3. Bake on middle rack until golden brown and crispy, 8-12 minutes.
 
 #### Finish & Serve:

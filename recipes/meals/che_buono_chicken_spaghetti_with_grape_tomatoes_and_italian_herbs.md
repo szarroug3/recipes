@@ -19,12 +19,12 @@
 2. Halve tomatoes lengthwise. Trim and thinly slice scallions, separating whites from greens. Peel and mince or grate garlic.
 
 #### Cook Chicken:
-1. Pat chicken* dry with paper towels and season all over with half the Italian Seasoning (you’ll use the rest later), salt, and pepper.
+1. Pat chicken* dry with paper towels and season all over with half the Italian Seasoning (you'll use the rest later), salt, and pepper.
 2. Heat a large drizzle of olive oil in a large pan over medium-high heat. Add chicken and cook, stirring, until browned and cooked through, 4-6 minutes.
 3. Turn off heat; transfer chicken to a plate. Wipe out pan.
 
 #### Cook Pasta:
-1. Once water is boiling, add spaghetti to pot. Cook until al dente, 9-11 minutes (you’ll start the tomatoes after 5 minutes).
+1. Once water is boiling, add spaghetti to pot. Cook until al dente, 9-11 minutes (you'll start the tomatoes after 5 minutes).
 2. Reserve 1 cup pasta cooking water, then drain well.
 
 #### Cook Veggies:

@@ -1,12 +1,12 @@
 ### 2 lb chicken breast
 - 1.5 tbsp cumin
 - 1 tbsp coriander
-- 1 tsp turmeric 
+- 1 tsp turmeric
 - 0.5  tsp cayenne
 - 6 cloves garlic
 - 3 tbsp ginger
 - 0.5  cup yogurt
-- 1 tbsp salt 
+- 1 tbsp salt
 - 2 tbsp butter
 - 0.5 onion
 - 14 oz tomato

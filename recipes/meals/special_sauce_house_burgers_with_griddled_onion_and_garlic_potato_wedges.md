@@ -21,7 +21,7 @@
 2. Cut potatoes into 1/2-inch-thick wedges. Halve, peel, and finely dice onion. Halve buns. Thinly slice tomato into rounds.
 
 #### Roast Potatoes:
-1. Toss potatoes on a baking sheet with a drizzle of oil, 3/4 tsp garlic powder (11/2 tsp for 4 servings), salt, and pepper. (You’ll use the rest of the garlic powder in the next step.)
+1. Toss potatoes on a baking sheet with a drizzle of oil, 3/4 tsp garlic powder (11/2 tsp for 4 servings), salt, and pepper. (you'll use the rest of the garlic powder in the next step.)
 2. Roast on top rack until browned and crisp, 20-25 minutes.
 
 #### Pickle Onion & Make Sauce:

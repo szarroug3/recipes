@@ -38,7 +38,7 @@
 #### Finish Filling:
 1. Gradually pour 1/2 cup water (3/4 cup for 4 servings) into pan with beef mixture.
 2. Stir in stock concentrates and bring to a boil. Cook until mixture is very thick, 1-2 minutes. Turn off heat.
-3. Taste and season with salt and pepper. TIP: If your pan isn’t ovenproof, transfer mixture to a baking dish.
+3. Taste and season with salt and pepper. TIP: If your pan isn't ovenproof, transfer mixture to a baking dish.
 
 #### Finish & Serve:
 1. Top beef filling with an even layer of mashed potatoes, leaving a gap around edge of pan. Evenly sprinkle with cheddar.

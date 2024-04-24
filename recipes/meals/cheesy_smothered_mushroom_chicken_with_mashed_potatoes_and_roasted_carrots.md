@@ -30,7 +30,7 @@
 3. Turn off heat; transfer to a plate.
 
 #### Mash Potatoes:
-1. Heat pot with drained potatoes over low heat; add 1 TBSP butter (2 TBSP for 4 servings) and half the sour cream (you’ll use the rest later). Mash potatoes until smooth and creamy, adding splashes of reserved potato cooking liquid as needed. Season with salt and pepper.
+1. Heat pot with drained potatoes over low heat; add 1 TBSP butter (2 TBSP for 4 servings) and half the sour cream (you'll use the rest later). Mash potatoes until smooth and creamy, adding splashes of reserved potato cooking liquid as needed. Season with salt and pepper.
 
 #### Make Sauce:
 1. Heat a drizzle of oil in pan used for chicken over medium-high heat. Add mushrooms and scallion whites; season with salt and pepper. Cook, stirring, until softened, 2-4 minutes.

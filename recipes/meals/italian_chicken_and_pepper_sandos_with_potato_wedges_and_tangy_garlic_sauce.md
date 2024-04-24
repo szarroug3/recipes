@@ -22,7 +22,7 @@
 
 #### Roast Potatoes & Mix Sauce:
 1. Toss potatoes on a baking sheet with a large drizzle of oil, salt, and pepper. Roast on top rack until golden brown and crispy, 20-25 minutes.
-2. Meanwhile, in a small bowl, combine mayonnaise, sour cream, and half the garlic powder (you’ll use the rest later). Season with salt and pepper.
+2. Meanwhile, in a small bowl, combine mayonnaise, sour cream, and half the garlic powder (you'll use the rest later). Season with salt and pepper.
 
 #### Cook Veggies:
 1. Heat a large drizzle of oil in a large pan over medium-high heat. Add onion and green pepper; cook, stirring occasionally, until softened and lightly browned, 5-7 minutes. Season with salt and pepper.

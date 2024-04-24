@@ -21,7 +21,7 @@
 2. Finely chop pecans (or crush in their bag with a heavy pan or rolling pin).
 
 #### Make Crust:
-1. Place 1 TBSP butter (2 TBSP for 4 servings) in a medium microwave-safe bowl. Microwave until melted, 30 seconds. Let cool slightly, then stir in pecans, panko, half the Fry Seasoning (you’ll use the rest later), a drizzle of olive oil, and a pinch of salt and pepper.
+1. Place 1 TBSP butter (2 TBSP for 4 servings) in a medium microwave-safe bowl. Microwave until melted, 30 seconds. Let cool slightly, then stir in pecans, panko, half the Fry Seasoning (you'll use the rest later), a drizzle of olive oil, and a pinch of salt and pepper.
 
 #### Make Sauce:
 1. In a small bowl, combine honey, mustard, and mayonnaise.

@@ -17,7 +17,7 @@
 1. Adjust rack to top position (top and middle positions for 4 servings) and preheat oven to 425 degrees. Wash and dry all produce.
 2. Cut potatoes into 1/2-inch-thick wedges. Cut broccoli florets into bite-size pieces if necessary.
 3. Toss potatoes on one side of a baking sheet with a drizzle of oil, Fry Seasoning, salt, and pepper. (For 4, spread potatoes out across entire sheet.)
-4. Roast on top rack for 5 minutes (you’ll add the broccoli then).
+4. Roast on top rack for 5 minutes (you'll add the broccoli then).
 
 #### Roast Broccoli:
 1. Once potatoes have roasted 5 minutes, remove sheet from oven. Carefully toss broccoli on empty side with a drizzle of oil, salt, and pepper. (For 4 servings, leave potatoes roasting and toss broccoli on a second sheet; roast on middle rack.)
@@ -29,7 +29,7 @@
 3. Pat chicken* dry with paper towels; place between 2 large pieces of plastic wrap. Pound with a mallet or rolling pin until chicken is about 1/2 inch thick. Season all over with salt and pepper. TIP: If your cutlets are already 1/2 inch thick, skip the pounding.
 
 #### Coat & Cook Chicken:
-1. Brush chicken all over with half the sour cream (you’ll use the rest in the next step). Working one piece at a time, press chicken into panko mixture to coat on both sides.
+1. Brush chicken all over with half the sour cream (you'll use the rest in the next step). Working one piece at a time, press chicken into panko mixture to coat on both sides.
 2. Heat a 1/3-inch layer of oil in a large, heavy-bottomed pan over medium-high heat. Once oil is shimmering and hot enough that a pinch of panko mixture sizzles when added to the pan, add chicken and cook until crust is golden brown and chicken is cooked through, 3-5 minutes per side.
 3. Transfer to a paper-towel-lined plate.
 

@@ -19,7 +19,7 @@
 #### Prep:
 1. Bring a large pot of salted water to a boil. Wash and dry produce.
 2. Peel and mince garlic.
-3. In a shallow dish, combine panko, half the Parmesan, half the Italian Seasoning (you’ll use the rest of each later), a large drizzle of olive oil, and a pinch of salt and pepper.
+3. In a shallow dish, combine panko, half the Parmesan, half the Italian Seasoning (you'll use the rest of each later), a large drizzle of olive oil, and a pinch of salt and pepper.
 4. Once water is boiling, add spaghetti to pot. Cook, stirring occasionally, until al dente, 9-11 minutes. Reserve 1/2 cup pasta cooking water (1 cup for 4 servings), then drain. Keep empty pot handy for step 4.
 
 #### Prep: & Cook Chicken:

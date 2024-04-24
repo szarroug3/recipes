@@ -37,6 +37,7 @@
 - [Pecos 83 Grilled Chicken](recipes/meals/pecos_83_grilled_chicken.md)
 - [Philly Style Beef Melts with Crispy Potato Wedges and Mustard Dipping Sauce](recipes/meals/philly_style_beef_melts_with_crispy_potato_wedges_and_mustard_dipping_sauce.md)
 - [Pub Style Shepherds Pie with White Cheddar and Thyme Mashed Potatoes](recipes/meals/pub_style_shepherds_pie_with_white_cheddar_and_thyme_mashed_potatoes.md)
+- [Secret Tacos](recipes/meals/secret_tacos.md)
 - [Special Sauce House Burgers with Griddled Onion and Garlic Potato Wedges](recipes/meals/special_sauce_house_burgers_with_griddled_onion_and_garlic_potato_wedges.md)
 - [Taco Soup](recipes/meals/taco_soup.md)
 - [White Cheddar Wonderburgers and Old Bay Fries with Caramelized Onion and Special Sauce](recipes/meals/white_cheddar_wonderburgers_and_old_bay_fries_with_caramelized_onion_and_special_sauce.md)

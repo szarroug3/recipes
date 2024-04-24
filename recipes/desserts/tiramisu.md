@@ -17,10 +17,10 @@
 3. Combine yolk with 6  tablespoons of sugar and mix until incorporated
 4. Mix mascarpone into the yolk until entirely incorporated
 5. While the mascarpone mixes, add a pinch of salt to the egg whites and beat the egg whites until they're stiff peaks
-6. Gently gently fold the whites into the yolks, stirring until you have a well mixed, light and fluffy cream. Take your time and go slow. 
-7. While the coffee is still hot, dunk a ladyfinger in and add it to the pan. If you're burning your fingers you're leaving the ladyfinger in too long: Be quick about it. 
+6. Gently gently fold the whites into the yolks, stirring until you have a well mixed, light and fluffy cream. Take your time and go slow.
+7. While the coffee is still hot, dunk a ladyfinger in and add it to the pan. If you're burning your fingers you're leaving the ladyfinger in too long: Be quick about it.
 8. Fill the entire pan with 1 layer of ladyfingers
-9. Spread half of your cream over the ladyfingers in an even layer. 
+9. Spread half of your cream over the ladyfingers in an even layer.
 10. Cover the top of the layer of cream with either espresso grounds or cocoa
 11. Refrigerate for 24 hours.
 12. Repeat 7-10 for the top layer

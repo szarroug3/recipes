@@ -21,7 +21,7 @@
 2. Trim and slice zucchini crosswise into 1/2-inch-thick rounds. Trim and thinly slice scallions, separating whites from greens. Zest and halve lemon.
 
 #### Roast Zucchini:
-1. Toss zucchini on a baking sheet with a large drizzle of olive oil, half the Tuscan Heat Spice (you’ll use the rest in the next step), salt, and pepper.
+1. Toss zucchini on a baking sheet with a large drizzle of olive oil, half the Tuscan Heat Spice (you'll use the rest in the next step), salt, and pepper.
 2. Roast on top rack until golden brown and tender, 14-16 minutes.
 
 #### Cook Chicken:
@@ -32,7 +32,7 @@
 #### Make Scallion Couscous:
 1. While chicken cooks, heat a drizzle of oil in a small pot over medium-high heat. Add scallion whites; cook until softened, 1 minute.
 2. Add couscous; stir until toasted, 30 seconds.
-3. Stir in 3/4 cup water (11/2 cups for 4 servings), half the stock concentrates (you’ll use the rest in the next step), and a pinch of salt. Cover and bring to a boil, then reduce heat to low. Cook until couscous is tender, 6-8 minutes.
+3. Stir in 3/4 cup water (11/2 cups for 4 servings), half the stock concentrates (you'll use the rest in the next step), and a pinch of salt. Cover and bring to a boil, then reduce heat to low. Cook until couscous is tender, 6-8 minutes.
 4. Keep covered off heat until ready to serve.
 
 #### Broil Zucchini & Make Sauce:

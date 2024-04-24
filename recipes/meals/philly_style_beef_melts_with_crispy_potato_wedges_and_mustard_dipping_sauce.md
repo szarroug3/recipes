@@ -21,17 +21,17 @@
 2. Cut potatoes into 1/2-inch-thick wedges. Halve, core, and thinly slice bell pepper into strips. Halve, peel, and thinly slice onion.
 
 #### Roast Veggies:
-1. Toss potatoes on one side of a baking sheet with a large drizzle of oil, half the Fry Seasoning (you’ll use the rest in the next step), salt, and pepper.
+1. Toss potatoes on one side of a baking sheet with a large drizzle of oil, half the Fry Seasoning (you'll use the rest in the next step), salt, and pepper.
 2. Toss bell pepper on empty side with a drizzle of oil, salt, and pepper.
 3. Roast on top rack until golden brown and tender, 20-22 minutes. (For 4 servings, divide between 2 sheets; roast potatoes on top rack and bell peppers on middle rack.)
 4. Remove veggies from sheet.
 
 #### Cook Onion & Beef:
 1. Meanwhile, heat a drizzle of oil in a large pan over medium-high heat. Add onion; season with salt and pepper. Cook, stirring, until browned and softened, 5-7 minutes.
-2. Add beef* and remaining Fry Seasoning; season with salt and pepper. Cook, breaking up meat into pieces, until browned and cooked through, 4-6 minutes. (If there’s excess grease in your pan, carefully pour it out.)
+2. Add beef* and remaining Fry Seasoning; season with salt and pepper. Cook, breaking up meat into pieces, until browned and cooked through, 4-6 minutes. (If there's excess grease in your pan, carefully pour it out.)
 
 #### Make Creamy Mustard & Toast Baguettes:
-1. While onion and beef cook, in a small bowl, combine sour cream with half the mustard (you’ll use the rest in the next step). Season with salt and pepper.
+1. While onion and beef cook, in a small bowl, combine sour cream with half the mustard (you'll use the rest in the next step). Season with salt and pepper.
 2. Slice baguettes lengthwise, stopping before you get all the way through.
 3. Toast cut sides up in oven until lightly golden, 3-5 minutes.
 
