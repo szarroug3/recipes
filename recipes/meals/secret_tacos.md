@@ -1,13 +1,13 @@
 ## Secret Taco Beef
 ### Ingredients:
-1-2 lbs. Skirt Steak
-1 tsp. Chile Powder
-1 Lime
-1 tsp. Brown Sugar
-1 Tbsp. Fajita Seasoning (or Taco Seasoning or Some Shit((Some Shit = Black Pepper, Cumin, Paprika, Cayenne, Onion Powder, Garlic Powder?))
+- 1-2 lbs. Skirt Steak
+- 1 tsp. Chile Powder
+- 1 Lime
+- 1 tsp. Brown Sugar
+- 1 Tbsp. Fajita Seasoning (or Taco Seasoning or Some Shit((Some Shit = Black Pepper, Cumin, Paprika, Cayenne, Onion Powder, Garlic Powder?))
 Maybe Some Salt and Pepper, but Maybe Not (Depending on the Fajita Seasoning)
-Splash of Olive Oil
-High Smoke Point Cooking Oil (Canola, Peanut, Ghee, etc.)
+- Splash of Olive Oil
+- High Smoke Point Cooking Oil (Canola, Peanut, Ghee, etc.)
 
 ### Instructions:
 1. Add Olive Oil to Steak and rub to coat (important, Skirt Steak has crannies).
@@ -24,19 +24,19 @@ High Smoke Point Cooking Oil (Canola, Peanut, Ghee, etc.)
 
 ## Secret Taco Chicken
 ### Ingredients:
-1-2 lbs. Chicken Breast or Boneless, Skinless Thighs (Breast probably better for this)
-1-2 Jalapeno Peppers (or maybe Bell Pepper or some shit if you're a complete wuss)
-2-6 Cloves of Garlic
-4-6 Cherry Tomatoes OR 2 Medium Plum/Roma Tomatoes, OR 1 Large Tomato (or some canned stuff, IDK) OR OR OR some Tomatillos for Something Fancy
-1/2 of a Sweet or White Onion (NOT FUCKING YELLOW)
-1 Tbsp. of Brown Sugar
-1 Cup of Meat Stock (Prefer Chicken Bouillon ((Knorr Caldo con sabor de Pollo GOATed))
-1 Tbsp. Fajita Seasoning (maybe)
-Splash of Olive Oil
-1 Lime
-Maybe Some Salt and Pepper (you know the drill)
-1 tsp. Chile Powder
-Cooking Oil (anything really)
+- 1-2 lbs. Chicken Breast or Boneless, Skinless Thighs (Breast probably better for this)
+- 1-2 Jalapeno Peppers (or maybe Bell Pepper or some shit if you're a complete wuss)
+- 2-6 Cloves of Garlic
+- 4-6 Cherry Tomatoes OR 2 Medium Plum/Roma Tomatoes, OR 1 Large Tomato (or some canned stuff, IDK) OR OR OR some Tomatillos for Something Fancy
+- 1/2 of a Sweet or White Onion (NOT FUCKING YELLOW)
+- 1 Tbsp. of Brown Sugar
+- 1 Cup of Meat Stock (Prefer Chicken Bouillon ((Knorr Caldo con sabor de Pollo GOATed))
+- 1 Tbsp. Fajita Seasoning (maybe)
+- Splash of Olive Oil
+- 1 Lime
+- Maybe Some Salt and Pepper (you know the drill)
+- 1 tsp. Chile Powder
+- Cooking Oil (anything really)
 
 ### Instructions:
 1. Add Chicken to Instant Pot and lightly coat with Olive Oil (drizzle is fine).
