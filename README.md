@@ -40,6 +40,7 @@
 - [Secret Tacos](recipes/meals/secret_tacos.md)
 - [Special Sauce House Burgers with Griddled Onion and Garlic Potato Wedges](recipes/meals/special_sauce_house_burgers_with_griddled_onion_and_garlic_potato_wedges.md)
 - [Taco Soup](recipes/meals/taco_soup.md)
+- [The Original African Peanut Soup](recipes/meals/the-original-african-peanut-soup.md)
 - [White Cheddar Wonderburgers and Old Bay Fries with Caramelized Onion and Special Sauce](recipes/meals/white_cheddar_wonderburgers_and_old_bay_fries_with_caramelized_onion_and_special_sauce.md)
 - [Yogurt Marinated Chicken with Garlic Sauce plus Pistachio Couscous and Chili Roasted Carrots](recipes/meals/yogurt_marinated_chicken_with_garlic_sauce_plus_pistachio_couscous_and_chili_roasted_carrots.md)
 
