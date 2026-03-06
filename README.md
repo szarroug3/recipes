@@ -28,6 +28,7 @@
 - [Italian Chicken and Pepper Sandos with Potato Wedges and Tangy Garlic Sauce](recipes/meals/italian_chicken_and_pepper_sandos_with_potato_wedges_and_tangy_garlic_sauce.md)
 - [Italian Chicken over Lemony Spaghetti with Zucchini and Chili Flakes](recipes/meals/italian_chicken_over_lemony_spaghetti_with_zucchini_and_chili_flakes.md)
 - [Mango Chili Coconut Shrimp](recipes/meals/mango_chili_coconut_shrimp.md)
+- [Mongolian Chicken](recipes/meals/mongolian_chicken.md)
 - [Monterey Jack Unfried Chicken with Buttery Green Beans, Potato Wedges and Sriracha Mayo](recipes/meals/monterey_jack_unfried_chicken_with_buttery_green_beans_potato_wedges_and_sriracha_mayo.md)
 - [Orange Chicken with Jasmine Rice](recipes/meals/orange_chicken_with_jasmine_rice.md)
 - [Paprika Chicken in a Lemony Sauce with Pistachio Rice and Roasted Green Beans](recipes/meals/paprika_chicken_in_a_lemony_sauce_with_pistachio_rice_and_roasted_green_beans.md)
